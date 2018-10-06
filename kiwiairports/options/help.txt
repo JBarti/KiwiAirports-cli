@@ -1,0 +1,13 @@
+Usage: python3 ./kiwi_airports.py [options]
+    
+    where options are:
+    
+    --help          Print Help (this message)
+    --cities        Display cities with airports
+    --coords        Display coordinates of each airport
+    --iata          Display iata codes of each airport
+    --names         Display ONLY names of airports
+    --full          Display every detail from each airport
+
+When run without any options, only names and IATA codes of
+airports are displayed.
